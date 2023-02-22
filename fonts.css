@@ -1,0 +1,191 @@
+/* HEADINGS */
+/* Ag h1 500 62/74 */
+.h1-500 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 500;
+  font-size: 62px;
+  line-height: 74px;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+/* Ag h1 800 62/74 */
+.h1-800 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 800;
+  font-size: 62px;
+  line-height: 74px;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+/* Ag h2 400 40/52 */
+.h2-400 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+/* Ag h2 800 40/52 */
+.h2-800 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 52px;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+/* Ag h3 400 36/46 */
+.h3-400 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 46px;
+  color: #000000;
+}
+
+/* Ag h3 800 36/46 */
+.h3-800 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 46px;
+  color: #000000;
+}
+
+/* Ag h4 800 30/38 */
+.h4-800 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 38px;
+  color: #000000;
+}
+
+/* h4 900 800 22/30 */
+.h4-900 {
+  font-family: Plus Jakarta Sans;
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+
+/* h4 900 800 22/30 */
+.h4-900-black {
+  font-family: Plus Jakarta Sans;
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #363636;
+}
+
+/* Ag h5 500 28/36 */
+.h5-500 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 36px;
+  color: #000000;
+}
+
+/* Ag h6 800 24/32 */
+.h6-800 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+/* PARAGRAPH */
+/* Regular paragraph  */
+/* p 400 20/28 */
+.p-regular {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #000000;
+}
+
+/* Italic paragraph */
+/* p 400 italic 20/28 */
+.p-italic {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 20px;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 28px;
+  color: #000000;
+}
+
+/* Bold paragraph */
+/* p 700 20/28 */
+.p-bold {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+  color: #000000;
+}
+
+/* Extra-bold paragraph */
+/* p 800 20/28 */
+.p-extrabold {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 28px;
+  color: #000000;
+}
+
+/* Extra-bold italic paragraph */
+/* p 800 italic 20/28 */
+.p-extrabold-italic {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 20px;
+  font-weight: 800;
+  font-style: italic;
+  line-height: 28px;
+  color: #000000;
+}
+
+/* Small paragraph */
+/* p 400 14/20 */
+.p-small {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #000000;
+}
+
+/* Small bold paragraph */
+/* p 700 14/20 */
+.p-small-bold {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #000000;
+}
+
+/* Alternate paragraph */
+/* p 700 14/24 */
+.p-alt {
+  font-family: 'Plus Jakarta Sans';
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+}
